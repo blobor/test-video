@@ -1,3 +1,3 @@
 # test-video
 
-![Demo](quick_demo.mov)
+quick_demo.mov
